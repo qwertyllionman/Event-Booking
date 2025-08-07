@@ -23,6 +23,7 @@ make migration
 ```bash
 make runserver
 ```
+After runnning the project add /docs to the url for opening swagger.
 ## 🛠️ Technologies Used
 
 - Python 3.12
@@ -139,6 +140,7 @@ make runserver
   }
 ]
 ```
+You can practice this in swagger.
 
 
 
